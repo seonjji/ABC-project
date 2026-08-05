@@ -6,8 +6,6 @@ ABC-project 파이팅
 
 2
 
-3
-
 4
 
 5
